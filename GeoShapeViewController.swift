@@ -10,12 +10,12 @@ import UIKit
 
 class GeoShapeViewController: UIViewController {
 
+	@IBOutlet weak var geoMetricShape: GeoMetricShape!
+
+
 	override func viewDidLoad() {
 		super.viewDidLoad()
-
-		view.backgroundColor = #colorLiteral(red: 0.5262700249, green: 0.5744411169, blue: 0.8508680229, alpha: 1)
+		view.backgroundColor = #colorLiteral(red: 0.6775419555, green: 0.7226774049, blue: 0.9911407351, alpha: 1)
 	}
-
-
 }
 
