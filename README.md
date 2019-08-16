@@ -8,5 +8,5 @@
 #### This is the shape I was going for:
 
 <p align="center">
-  <img src="https://files.slack.com/files-pri/T4JUEB3ME-FM2DXCJR1/image.png">
+  <img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2Fed%2F81%2F7a%2Fed817a5e5af22517a0bb0507244df1e4.jpg&f=1">
 </p>
