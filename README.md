@@ -1,6 +1,6 @@
-CGDrawingGeoMetricShapes
+## Geometric shape drawn using CoreGraphics
 
 
 <p align="center">
-  <img src="https://github.com/marlonjames71/Emoji-Rebus/blob/master/Screen%20Shot%202019-07-18%20at%2012.53.23%20AM.png?raw=true">
+  <img src="https://github.com/marlonjames71/CoreGraphicsDrawingGeoMetricShapes/blob/master/Screen%20Shot%202019-08-15%20at%207.56.35%20PM.png">
 </p>
